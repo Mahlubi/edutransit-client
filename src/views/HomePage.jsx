@@ -7,7 +7,6 @@ export default function HomePage(){
     return(
         <>
             <div className="App">
-                <Navigation />
                 <MainSection />
                 <Footer />
             </div>
